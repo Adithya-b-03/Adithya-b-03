@@ -93,4 +93,6 @@ MongoDB knows me so well, it probably dreams about my schemas 😴📊.
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Adithya-b-03/Adithya-b-03/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img alt="snake gif" src="https://github.com/Adithya-b-03/Adithya-b-03/blob/output/github-contribution-grid-snake.svg" />
+</p>

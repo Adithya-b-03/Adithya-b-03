@@ -91,4 +91,4 @@ MongoDB knows me so well, it probably dreams about my schemas 😴📊.
   <img src="https://github-profile-trophy.vercel.app/?username=adithya-b-03&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=4" />
 </p>
 
-![snake gif](https://github.com/Adithya-b-03/Adithya-b-03/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Adithya-b-03/Adithya-b-03/blob/output/github-contribution-grid-snake.gif)

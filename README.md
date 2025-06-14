@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Adithya</h1>
-<h2 align="center">Passionate full-stack & mobile developer from India</h2>
+<h2 align="center">Passionate full-stack & mobile app developer from India</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adithya-b-03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
